@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48.356 65.513">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.7;
+      }
+
+      .cls-2 {
+        fill: #fffdfd;
+      }
+    </style>
+  </defs>
+  <g id="play-button" class="cls-1">
+    <path id="Path_8" data-name="Path 8" class="cls-2" d="M53.182,31.472,7.946.275A1.56,1.56,0,0,0,5.5,1.558V63.953a1.56,1.56,0,0,0,2.446,1.284l45.236-31.2a1.56,1.56,0,0,0,0-2.568Z" transform="translate(-5.5 0)"/>
+  </g>
+</svg>

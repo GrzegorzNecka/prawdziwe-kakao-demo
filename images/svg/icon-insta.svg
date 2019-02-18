@@ -1,0 +1,24 @@
+<svg id="instagram" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 418 418">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_189" data-name="Group 189">
+    <g id="Group_188" data-name="Group 188">
+      <path id="Path_105" data-name="Path 105" class="cls-1" d="M287.375,0H130.625A130.639,130.639,0,0,0,0,130.625v156.75A130.639,130.639,0,0,0,130.625,418h156.75A130.639,130.639,0,0,0,418,287.375V130.625A130.639,130.639,0,0,0,287.375,0Zm91.438,287.375a91.538,91.538,0,0,1-91.437,91.438H130.625a91.538,91.538,0,0,1-91.437-91.437V130.625a91.538,91.538,0,0,1,91.438-91.437h156.75a91.538,91.538,0,0,1,91.438,91.438Z"/>
+    </g>
+  </g>
+  <g id="Group_191" data-name="Group 191" transform="translate(104.5 104.5)">
+    <g id="Group_190" data-name="Group 190">
+      <path id="Path_106" data-name="Path 106" class="cls-1" d="M232.5,128A104.5,104.5,0,1,0,337,232.5,104.5,104.5,0,0,0,232.5,128Zm0,169.813A65.313,65.313,0,1,1,297.813,232.5,65.4,65.4,0,0,1,232.5,297.813Z" transform="translate(-128 -128)"/>
+    </g>
+  </g>
+  <g id="Group_193" data-name="Group 193" transform="translate(307.413 82.738)">
+    <g id="Group_192" data-name="Group 192">
+      <circle id="Ellipse_17" data-name="Ellipse 17" class="cls-1" cx="13.925" cy="13.925" r="13.925"/>
+    </g>
+  </g>
+</svg>

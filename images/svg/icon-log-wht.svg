@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 407.338 407.338">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #FFF;
+      }
+    </style>
+  </defs>
+  <g id="ic_person_24px" transform="translate(-6676.07 6434.065)">
+    <path id="ic_person_24px-2" data-name="ic_person_24px" class="cls-1" d="M207.669,207.669A101.834,101.834,0,1,0,105.835,105.834,101.806,101.806,0,0,0,207.669,207.669Zm0,50.917C139.695,258.586,4,292.7,4,360.42v50.917H411.339V360.42C411.339,292.7,275.644,258.586,207.669,258.586Z" transform="translate(6672.07 -6438.065)"/>
+  </g>
+</svg>

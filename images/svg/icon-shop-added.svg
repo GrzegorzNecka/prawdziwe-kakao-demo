@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.123 408.177">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <g id="Group_198" data-name="Group 198" transform="translate(-6201.547 6441.445)">
+    <g id="ic_shopping_basket_24px" transform="translate(6201.547 -6441.445)">
+      <path id="ic_shopping_basket_24px-2" data-name="ic_shopping_basket_24px" class="cls-1" d="M349.606,152.129,255.411,11.052a21.348,21.348,0,0,0-17.85-9.032,21.017,21.017,0,0,0-17.85,9.247L125.517,152.129H22.506A21.569,21.569,0,0,0,1,173.635a18.113,18.113,0,0,0,.86,5.807L56.484,378.8a42.769,42.769,0,0,0,41.291,31.4H377.348a43.219,43.219,0,0,0,41.506-31.4l54.624-199.357.645-5.807a21.569,21.569,0,0,0-21.506-21.506Zm-176.561,0L237.562,57.5l64.517,94.625Zm64.517,172.045a43.011,43.011,0,1,1,43.011-43.011A43.138,43.138,0,0,1,237.562,324.174Z" transform="translate(-1 -2.02)"/>
+    </g>
+    <ellipse id="Ellipse_14" data-name="Ellipse 14" class="cls-2" cx="43.483" cy="43.483" rx="43.483" ry="43.483" transform="translate(6394.216 -6205.838)"/>
+  </g>
+</svg>
